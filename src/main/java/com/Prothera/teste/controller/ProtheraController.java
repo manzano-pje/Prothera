@@ -17,7 +17,7 @@ import java.util.Map;
 
 @Data
 @RestController
-@CrossOrigin(origins = "https://seu-projeto.vercel.app")
+@CrossOrigin(origins = "https://prothera-h3pq.vercel.app/")
 @RequestMapping("/api/v1/prothera")
 public class ProtheraController {
 
