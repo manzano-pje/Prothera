@@ -1,0 +1,1 @@
+{"root":["./src/main.ts","./src/vite-env.d.ts","./src/router/index.ts","./src/services/api.ts","./src/services/protheraService.ts","./src/types/consulta.ts","./src/types/funcionario.ts","./src/App.vue","./src/components/ConfirmDialog.vue","./src/components/ConsultaResultado.vue","./src/views/ConsultasView.vue","./src/views/FuncionariosView.vue"],"version":"5.9.3"}
